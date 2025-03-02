@@ -9,6 +9,6 @@
 ![h3](https://github.com/Hieupham0012/Guide_banime40_DIY/blob/main/h%C3%ACnh/IMG_4034.jpg)
 
 # Bước 5: Nạp code và để test mạch hoàn thiện. "nạp code bằng QMK toolbox bằng file trên", tải file .hex để nạp. Cách nạp: chọn đường dẫn đến file hex đã tải, chọn tick ô auto flash, chọn đúng chip atmega32u4
-![]()
+![h4](https://github.com/Hieupham0012/Guide_banime40_DIY/blob/main/h%C3%ACnh/Screenshot%202025-03-02%20at%2014.57.14.png)
 # Bước 6: Cắm dây type c từ máy tính vào mạch atmega32u4, Mạch ban đầu sẽ tự flash luôn. Nếu không thì nhấn giữ reset 2 giây rồi nhả ra nhấn lại và nhả 1 lần nữa liền. 
 ![video cách bấm reset](https://www.youtube.com/shorts/RQlWx_O3xkk)
